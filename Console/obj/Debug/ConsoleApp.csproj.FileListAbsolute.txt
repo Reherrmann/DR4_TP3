@@ -1,0 +1,8 @@
+C:\Users\017552631\source\repos\TP3_Renan\Console\bin\Debug\Console.exe.config
+C:\Users\017552631\source\repos\TP3_Renan\Console\bin\Debug\Console.exe
+C:\Users\017552631\source\repos\TP3_Renan\Console\bin\Debug\Console.pdb
+C:\Users\017552631\source\repos\TP3_Renan\Console\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\017552631\source\repos\TP3_Renan\Console\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\017552631\source\repos\TP3_Renan\Console\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\017552631\source\repos\TP3_Renan\Console\obj\Debug\Console.exe
+C:\Users\017552631\source\repos\TP3_Renan\Console\obj\Debug\Console.pdb
